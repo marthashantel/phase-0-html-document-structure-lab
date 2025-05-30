@@ -8,8 +8,6 @@
   "author": "flatironschool",
   "license": "Included in Repo",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/learn-co-curriculum/phase-0-html-document-structure-lab.git"
   },
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/phase-0-html-document-structure-lab/issues"
